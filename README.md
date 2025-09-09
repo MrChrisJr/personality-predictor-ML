@@ -1,4 +1,5 @@
 User Guide
+
 If you have Google Colab already configured for your google account skip to step 3
 Step 1: Login to Google and navigate to Google Drive. Drag in the “WGU_Capstone_Christopher_Billings.ipynb” to your files.
 Step 2: Once you have uploaded the .ipynb to your Google Drive, right click it -> Open with 
