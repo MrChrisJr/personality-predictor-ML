@@ -1,4 +1,8 @@
-User Guide
+This project is a linear regression machine learning model based on Extrovert vs Introvert Behavior data (https://www.kaggle.com/datasets/rakeshkapilavai/extrovert-vs-introvert-behavior-data).
+
+This model uses Python with Pandas, Scikit and NumPy. I also use Matplotlib for data analysis and visualizations.
+
+User Guide For Initial Set Up
 
 If you have Google Colab already configured for your google account skip to step 3
 
